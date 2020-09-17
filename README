@@ -1,11 +1,6 @@
-ENSF409 Final Project Milestone 3
+ENSF409 - Principle of Software Development - Winter 2020
+Final Project - Course Registration System
 
-Niyousha Raeesinejad - niyousha.raeesinejad@ucalgary.ca
-
-Dunsin Shitta-Bey - oluwadunsin.shittabe@ucalgary.ca
-
-
-Arrangement of project:
 
 Final Project -->
 
@@ -23,11 +18,11 @@ Final Project -->
 
 To run this Student Course Registration Program, please go through the following sequence:
 
-1] Extract the Final Project from the zip folder onto an IDE (preferably eclipse)
+1] Extract the Final Project from the zip folder onto a Java IDE
 
 2] Run ServerCommsController.java from the serverController package
 
-3] Then run the GUIController.java file from the clientController package
+3] Run the GUIController.java file from the clientController package
 
 4] Follow the instructions on the GUI
 
